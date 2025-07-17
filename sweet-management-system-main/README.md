@@ -21,4 +21,24 @@ Login Page
 
 User View Sweet
 
-![user view](./vjnfj)
+![user view](./User%20View%20Sweet.png)
+
+Owner View
+
+![owner view](./ht)
+
+SearchPage
+
+![search page](./hbfh)
+
+Add Sweet
+![add sweet](./vbh)
+
+Add Quantity
+![add sweet](./vbvh)
+
+Delete Sweet
+![delete sweet](./fjdv)
+
+Buy Sweet
+![buy sweet](./fh)
