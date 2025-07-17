@@ -42,3 +42,9 @@ Delete Sweet
 
 Buy Sweet
 ![buy sweet](./Buy%20Sweet.png)
+
+## Login Credentials
+Role Password
+User user123
+Owner owner123
+Role is set dynamically and controls frontend behavior.
