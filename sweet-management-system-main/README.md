@@ -38,7 +38,7 @@ Add Quantity
 ![add sweet](./Add%20Quantity.png)
 
 Delete Sweet
-![delete sweet](./fjdv)
+![delete sweet](.Delete%20Sweet.png)
 
 Buy Sweet
 ![buy sweet](./Buy%20Sweet.png)
