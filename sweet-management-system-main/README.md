@@ -32,7 +32,7 @@ SearchPage
 ![search page](./hbfh)
 
 Add Sweet
-![add sweet](./vbh)
+![add sweet](./Add%20Sweet.png)
 
 Add Quantity
 ![add sweet](./Add%20Quantity.png)
