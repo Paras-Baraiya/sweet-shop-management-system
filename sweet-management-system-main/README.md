@@ -29,7 +29,7 @@ Owner View
 
 SearchPage
 
-![search page](./hbfh)
+![search page](./Search%20Page.png)
 
 Add Sweet
 ![add sweet](./Add%20Sweet.png)
