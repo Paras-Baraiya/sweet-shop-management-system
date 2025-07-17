@@ -32,15 +32,15 @@ table button {
 }
 
 table button:nth-child(1) {
-  background-color: #007bff; /* Purchase */
+  background-color: #5e03b3; /* Purchase */
 }
 
 table button:nth-child(2) {
-  background-color: #28a745; /* Restock */
+  background-color: #5e03b3; /* Restock */
 }
 
 table button:nth-child(3) {
-  background-color: #dc3545; /* Delete */
+  background-color: #5e03b3; /* Delete */
 }
 
 table button:hover {

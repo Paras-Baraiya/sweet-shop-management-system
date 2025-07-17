@@ -1,5 +1,5 @@
 .search-section {
-  background: white;
+  background: rgb(251, 251, 251);
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px #ddd;
@@ -19,7 +19,7 @@
 }
 
 .search-form button {
-  background-color: #da3e52;
+  background-color: #5e03b3;
   color: white;
   border: none;
   border-radius: 6px;
@@ -27,5 +27,5 @@
 }
 
 .search-form button:hover {
-  background-color: #b03042;
+  background-color: #5e03b3;
 }

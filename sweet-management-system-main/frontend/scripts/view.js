@@ -51,8 +51,8 @@ function renderTable(data) {
 
     if (role === 'owner') {
       actions += `
-        <button onclick="restockSweet(${sweet.id})">➕</button>
-        <button onclick="deleteSweet(${sweet.id})">❌</button>
+        <button onclick="restockSweet(${sweet.id})">Add</button>
+        <button onclick="deleteSweet(${sweet.id})">Delete</button>
       `;
     }
 

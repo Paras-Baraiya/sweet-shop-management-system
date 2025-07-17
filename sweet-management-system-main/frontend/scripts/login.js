@@ -6,6 +6,7 @@ export function initLogin() {
     e.preventDefault();
 
     const pwd = document.getElementById('password').value;
+    const u_n = document.getElementById('user_name').value;
 
     if (pwd === 'user123') {
       setRole('user');

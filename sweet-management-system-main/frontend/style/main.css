@@ -8,8 +8,8 @@
 /* Base font and background */
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f6f6f6;
-  color: #333;
+  background-color: #d1bedc;
+  color: rgb(0, 0, 0);
   line-height: 1.6;
   padding: 20px;
 }
@@ -19,14 +19,14 @@ body {
   max-width: 960px;
   margin: auto;
   padding: 20px;
-  background: #fff;
+  background: #ffe5ec;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.05);
 }
 
 /* Navigation bar */
 nav {
-  background-color: #da3e52;
+  background-color: #5e03b3;
   padding: 15px 20px;
   margin-bottom: 20px;
   border-radius: 10px;
@@ -43,7 +43,7 @@ nav h1 {
 
 nav button {
   background-color: #fff;
-  color: #da3e52;
+  color: #5e03b3;
   border: none;
   padding: 8px 14px;
   border-radius: 6px;
