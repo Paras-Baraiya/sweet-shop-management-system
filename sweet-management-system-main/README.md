@@ -25,7 +25,7 @@ User View Sweet
 
 Owner View
 
-![owner view](./ht)
+![owner view](./owner%20view%20page.png)
 
 SearchPage
 
