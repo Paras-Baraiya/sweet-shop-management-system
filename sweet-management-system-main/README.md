@@ -41,4 +41,4 @@ Delete Sweet
 ![delete sweet](./fjdv)
 
 Buy Sweet
-![buy sweet](./fh)
+![buy sweet](./Buy%20Sweet.png)
