@@ -35,7 +35,7 @@ Add Sweet
 ![add sweet](./vbh)
 
 Add Quantity
-![add sweet](./vbvh)
+![add sweet](./Add%20Quantity.png)
 
 Delete Sweet
 ![delete sweet](./fjdv)
